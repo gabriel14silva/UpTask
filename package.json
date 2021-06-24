@@ -4,7 +4,7 @@
   "description": "Proyecto UpTask con Node y MVC",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./index.js"
+    "dev": "nodemon ./index.js"
   },
   "author": "José Gabriel Griffin Silva",
   "license": "ISC",
