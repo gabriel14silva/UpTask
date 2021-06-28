@@ -3,8 +3,8 @@ const db = new Sequelize('uptasknode', 'root', 'Arianna14#', {
   host: 'localhost',
   dialect: 'mysql',
   port: '3306',
-  operatorsAliases: false,
-  defin: {
+  // operatorsAliases: false,
+  define: {
       timestamps: false
   },
   pool: {
